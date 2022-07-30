@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> 
-  <img src = "https://user-images.githubusercontent.com/22223024/178042749-61547efe-974f-4764-913e-1b723b1e55c9.gif" width="250px" height="250px">
+  <img src = "https://user-images.githubusercontent.com/22223024/178042749-61547efe-974f-4764-913e-1b723b1e55c9.gif" >
 </h1>
 
 ### A bit about me 👀: 
